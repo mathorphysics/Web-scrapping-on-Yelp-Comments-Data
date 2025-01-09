@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "temple_seattle",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "way/222583150", "@id": "way/222583150", "addr:city": "Seattle", "addr:housenumber": "7610", "addr:postcode": "98103", "addr:state": "WA", "addr:street": "Aurora Avenue North", "amenity": "place_of_worship", "building": "temple", "name": "Saint Germain Foundation \"I Am\" Temple", "religion": "ascended_master_teachings", "source": "King County GIS;data.seattle.gov", "wikidata": "Q43306456", "name:en": null, "name:vi": null }, "geometry": { "type": "Point", "coordinates": [ -122.344073758183896, 47.684289660520484 ] } },
+{ "type": "Feature", "properties": { "id": "way/228737978", "@id": "way/228737978", "addr:city": "Seattle", "addr:housenumber": "1651", "addr:postcode": "98144", "addr:state": "WA", "addr:street": "South King Street", "amenity": "place_of_worship", "building": "temple", "name": "Chùa Việt Nam", "religion": "buddhist", "source": "King County GIS;data.seattle.gov", "wikidata": null, "name:en": "Viet Nam Buddhist Temple", "name:vi": "Chùa Việt Nam" }, "geometry": { "type": "Point", "coordinates": [ -122.309360576333347, 47.598072620548749 ] } },
+{ "type": "Feature", "properties": { "id": "way/652546913", "@id": "way/652546913", "addr:city": "Seattle", "addr:housenumber": "11038", "addr:postcode": "98146", "addr:state": "WA", "addr:street": "4th Avenue Southwest", "amenity": "place_of_worship", "building": "temple", "name": "Chua Van Hoa", "religion": "buddhist", "source": null, "wikidata": null, "name:en": null, "name:vi": null }, "geometry": { "type": "Point", "coordinates": [ -122.338698624467469, 47.50381566218708 ] } }
+]
+}
